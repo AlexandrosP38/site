@@ -4,7 +4,7 @@
     branch = master
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/AlexandrosP38/_gallery.git
+	url = https://github.com/AlexandrosP38/_gallery/
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
@@ -22,3 +22,6 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
+[submodule "_gallery2"]
+	path = _gallery2
+	url = https://github.com/AlexandrosP38/_gallery
