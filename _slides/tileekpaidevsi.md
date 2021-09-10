@@ -10,4 +10,6 @@ slides:
   - online-gym
   - game-quiz
   - elearning-kid
+  - kid-teacher
+  - university-learning
 ---
